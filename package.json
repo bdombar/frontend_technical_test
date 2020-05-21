@@ -1,0 +1,28 @@
+{
+  "name": "frontend_technical_test",
+  "version": "1.0.0",
+  "description": "Technical exercise for the Junior Frontend Developer position at Whisbi",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdombar/frontend_technical_test.git"
+  },
+  "author": "Beatriz Domínguez Barragán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdombar/frontend_technical_test/issues"
+  },
+  "homepage": "https://github.com/bdombar/frontend_technical_test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "stylelint": "^13.5.0",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
